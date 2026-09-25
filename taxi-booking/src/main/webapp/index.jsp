@@ -94,7 +94,7 @@
 				<div class="slide">
 					<img src="http://placehold.it/1600x900" alt="" class="slider-image" />
 					<div class="slider-subtitle">Call us 24/7</div>
-					<div class="slider-title">8121-416-416</div>
+					<div class="slider-title">9363157540</div>
 					<div class="slider-button"><a href="about.html" class="btn btn-primary">Read more about us</a></div>
 				</div>
 				<div class="slide">
